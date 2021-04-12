@@ -70,6 +70,7 @@ cloud()
   .fontSize(function (d) {
     return d.size;
   })
+  .spiral("archimedean") // rectangular
   .on("end", end)
   .start();
 
