@@ -26,6 +26,8 @@
     "build": "mkdir -p build && browserify --standalone d3.layout.cloud index.js > build/d3.layout.cloud.js"
   },
   "dependencies": {
+    "canvas": "^2.7.0",
+    "d3": "^6.6.2",
     "d3-dispatch": "^1.0.3"
   },
   "devDependencies": {
