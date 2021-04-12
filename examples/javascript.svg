@@ -1,0 +1,292 @@
+<svg width="1000" height="1200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(500, 600) scale(1,1)">
+<text text-anchor="middle" 
+        transform="translate(182, 24) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 97px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        aws
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-57, 70) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 95px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        react
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-46, -126) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 92px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        nosql
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(68, -46) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 92px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        restful
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(121, 217) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 90px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        prettier
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-48, -216) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 89px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        svelte
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-12, 232) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 85px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        json
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-85, 304) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 81px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        express
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(27, 360) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 78px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        sass
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-124, 57) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 75px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        nextjs
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(38, 52) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 71px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        regex
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(190, 106) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 69px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        pwa
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(221, -187) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 68px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        javascript
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(98, -220) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 66px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        gatsby
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-187, 39) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 65px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        jamstack
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(319, 329) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 64px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        bootstrap
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-279, 307) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 64px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        eslint
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-36, -295) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 60px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        git
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(245, 189) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 60px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        docker
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(326, -125) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 53px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        node
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(206, 240) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 47px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        npm
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-232, 14) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 46px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        angular
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-33, -350) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 46px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        typescript
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(136, -336) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 42px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        jquery
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(70, 174) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 36px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        css
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(270, 53) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 35px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        vue
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-115, 190) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 35px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        d3
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-199, -136) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 34px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        dom
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(137, 395) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 34px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        accessibility
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-133, 225) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 25px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        jest
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(181, -261) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 24px; font-family: Impact; weight: normal; fill: rgb(128, 0, 0);">
+        ajax
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(6, 9) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 22px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        seo
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(193, -206) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        html
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-214, 139) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 19px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        graphql
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(122, 50) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 19px; font-family: Impact; weight: normal; fill: rgb(0, 128, 0);">
+        tailwind
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(325, 176) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 17px; font-family: Impact; weight: normal; fill: rgb(0, 0, 128);">
+        webpack
+        </text>
+      
+</g>
+</svg>
