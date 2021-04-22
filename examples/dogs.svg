@@ -1,195 +1,243 @@
 <svg width="1000" height="1200" version="1.1" xmlns="http://www.w3.org/2000/svg">
 <g transform="translate(500, 600) scale(1,1)">
 <text text-anchor="middle" 
-        transform="translate(-36, -111) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 98px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        labrador
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-157, 187) 
+        transform="translate(-88, 19) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 95px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
-        beagle
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(325, -193) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 95px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
-        shih tzu
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(27, 465) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 91px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        greyhound
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(2, -225) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 90px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
-        pinscher
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-21, -304) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 85px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        sheepdog
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(71, 92) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 81px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
-        boxer
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(17, 136) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 77px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
-        maltese
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-42, 168) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 75px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
-        dalmatian
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-239, 192) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 75px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        pointer
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(419, 244) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 71px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
+        style="font-size: 93px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
         alsation
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(178, 103) 
-        rotate(45)
+        transform="translate(146, -238) 
+        rotate(-45)
         scale(1,1)"
-        style="font-size: 65px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        foxhound
+        style="font-size: 92px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        afghan
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-48, -432) 
+        transform="translate(122, 311) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 61px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
-        cocker spaniel
+        style="font-size: 89px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        kelpie
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-130, -376) 
-        rotate(0)
+        transform="translate(361, -28) 
+        rotate(90)
         scale(1,1)"
-        style="font-size: 57px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
+        style="font-size: 88px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        jack russell
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-257, 118) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 83px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
         collie
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(152, -31) 
+        transform="translate(-208, -378) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 57px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        style="font-size: 79px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        basenji
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(33, 372) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 76px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        dalmatian
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(174, -23) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 73px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
+        husky
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-394, -226) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 72px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
+        sheepdog
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(10, 534) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 66px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        basset hound
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-242, 251) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 64px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        maltese
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(433, 23) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 64px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
+        shih tzu
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(28, -467) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 63px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        pinscher
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(230, -243) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 62px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        shar pei
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(65, -349) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 60px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        corgi
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-1, 151) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 58px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
         pug
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-275, 210) 
-        rotate(45)
+        transform="translate(-134, 415) 
+        rotate(0)
         scale(1,1)"
-        style="font-size: 52px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        style="font-size: 57px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
         dingo
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(99, 510) 
+        transform="translate(-28, 457) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 51px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
-        bulldog
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(402, -312) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 50px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
-        pit bull
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-291, 260) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 50px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        mastiff
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-418, 339) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 50px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        setter
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(28, 547) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 42px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
-        rhodesian ridgeback
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-431, -10) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 42px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
-        silky
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(451, -300) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 41px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        style="font-size: 53px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
         rottweiler
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(347, 318) 
+        transform="translate(-315, -83) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 52px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        silky
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(94, 80) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 51px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        boxer
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-433, -97) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 51px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        pekingese
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(254, -199) 
         rotate(-45)
         scale(1,1)"
-        style="font-size: 32px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
-        afghan
+        style="font-size: 47px; font-family: Quast; weight: regular; fill: rgb(0 , 0, 255);">
+        terrier
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-116, -521) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 45px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        beagle
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-217, 122) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 40px; font-family: Quast; weight: regular; fill: rgb(255, 0, 255);">
+        foxhound
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-95, 241) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 40px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        poodle
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(164, 403) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 39px; font-family: Quast; weight: regular; fill: rgb(255, 0, 0);">
+        pointer
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(195, 117) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 38px; font-family: Quast; weight: regular; fill: rgb(0, 255, 0);">
+        bloodhound
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(443, -355) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 37px; font-family: Quast; weight: regular; fill: rgb(0, 0, 255);">
+        bulldog
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(331, 89) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 32px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
+        setter
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-205, -245) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 31px; font-family: Quast; weight: regular; fill: rgb(255, 255, 0);">
+        mastiff
         </text>
       
 </g>
