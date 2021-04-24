@@ -14,73 +14,74 @@ const colors = [
   "rgb(0, 0, 255)",
 ];
 
-const flowerSize = () => 10 + Math.random() * 40
+const flowerSize = () => 15 + Math.random() * 35;
 
 const popularFlowers = [
-"Acacia",
-"African Daisy",
-"Azalea",
-"Bellflower",
-"Bergamot",
-"Bottlebrush",
-"Buttercup",
-"Camellia",
-"Carnation",
-"Chicory",
-"Chrysanthemum",
-"Clover",
-"Cornflower",
-"Cyclamen",
-"Daffodil",
-"Dahlia",
-"Daisy",
-"Dandelion",
-"Delphinium",
-"Desert Rose",
-"Dill",
-"Elder",
-"Evening Primrose",
-"Forget Me Not",
-"Frangipani",
-"Freesia",
-"French Marigold",
-"Fuchsia",
-"Geranium",
-"Gladiolas",
-"Heather",
-"Hibiscus",
-"Holly",
-"Honeysuckle",
-"Hyacinth",
-"Hydrangea",
-"Iris",
-"Jasmine",
-"Kangaroo Paw",
-"Lantana",
-"Lavender",
-"Lilac",
-"Lily",
-"Lotus",
-"Lupin",
-"Magnolia",
-"Marigold",
-"Mayflower",
-"Nasturtium",
-"Orchid",
-"Pansy",
-"Peony",
-"Petunia",
-"Poppy",
-"Quince",
-"Roses",
-"Sage",
-"Snapdragon",
-"Sunflower",
-"Sweet Pea",
-"Tulip",
-"Wallflower",
-"Water lilies",
-]
+  "Acacia",
+  "African Daisy",
+  "Azalea",
+  "Bellflower",
+  "Bergamot",
+  "Bottlebrush",
+  "Buttercup",
+  "Camellia",
+  "Carnation",
+  "Chicory",
+  "Chrysanthemum",
+  "Clover",
+  "Cornflower",
+  "Cyclamen",
+  "Daffodil",
+  "Dahlia",
+  "Daisy",
+  "Dandelion",
+  "Delphinium",
+  "Desert Rose",
+  "Dill",
+  "Elder",
+  "Evening Primrose",
+  "Forget Me Not",
+  "Frangipani",
+  "Freesia",
+  "Marigold",
+  "Fuchsia",
+  "Geranium",
+  "Gladiolas",
+  "Heather",
+  "Hibiscus",
+  "Holly",
+  "Honeysuckle",
+  "Hyacinth",
+  "Hydrangea",
+  "Iris",
+  "Jasmine",
+  "Kangaroo Paw",
+  "Lantana",
+  "Lavender",
+  "Lilac",
+  "Lily",
+  "Lotus",
+  "Lupin",
+  "Magnolia",
+  "Marigold",
+  "Mayflower",
+  "Nasturtium",
+  "Orchid",
+  "Pansy",
+  "Peony",
+  "Petunia",
+  "Poppy",
+  "Quince",
+  "Roses",
+  "Sage",
+  "Snapdragon",
+  "Strelizia",
+  "Sunflower",
+  "Sweet Pea",
+  "Tulip",
+  "Wallflower",
+  "Water lilies",
+];
 
 var wordList = [
   {
@@ -538,18 +539,8 @@ var wordList = [
     size: flowerSize(),
     color: ~~(Math.random() * 6),
   },
-  {
-    text: "Dietes",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
   { text: "Dill", size: flowerSize(), color: ~~(Math.random() * 6) },
   { text: "Disa", size: flowerSize(), color: ~~(Math.random() * 6) },
-  {
-    text: "Dutch Iris",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
   {
     text: "Echinops",
     size: flowerSize(),
@@ -611,11 +602,6 @@ var wordList = [
     color: ~~(Math.random() * 6),
   },
   {
-    text: "Feverfew",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
     text: "Firethorn",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
@@ -667,11 +653,6 @@ var wordList = [
   },
   {
     text: "Freesia",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
-    text: "French Marigold",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
   },
@@ -1000,11 +981,6 @@ var wordList = [
     color: ~~(Math.random() * 6),
   },
   {
-    text: "Morning Glory",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
     text: "Moss Rose",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
@@ -1066,16 +1042,6 @@ var wordList = [
   },
   {
     text: "Orchid",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
-    text: "Oriental Lily",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
-    text: "Oriental Poppy",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
   },
@@ -1336,6 +1302,11 @@ var wordList = [
     color: ~~(Math.random() * 6),
   },
   {
+    text: "Strelizia",
+    size: flowerSize(),
+    color: ~~(Math.random() * 6),
+  },
+  {
     text: "Sunflower",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
@@ -1412,11 +1383,6 @@ var wordList = [
   },
   {
     text: "Ursinia",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
-    text: "Uva Ursi",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
   },
@@ -1546,11 +1512,6 @@ var wordList = [
     color: ~~(Math.random() * 6),
   },
   {
-    text: "Zenobia",
-    size: flowerSize(),
-    color: ~~(Math.random() * 6),
-  },
-  {
     text: "Zinnia",
     size: flowerSize(),
     color: ~~(Math.random() * 6),
@@ -1570,13 +1531,12 @@ cloud()
     return -45 + Math.floor(Math.random() * 4) * 45;
     // return  -90 + Math.floor(Math.random() * 3) * 90;
   })
-  .font("Boecklins Universe")
+  .font((d) =>
+    popularFlowers.includes(d.text) ? "Spring" : "Boecklins Universe"
+  )
   .fontWeight("regular")
   .fontSize(function (d) {
-    // return d.size;
-    // return d.text === 'Tulip' ? 100 : d.size;
     return popularFlowers.includes(d.text) ? d.size * 2 : d.size;
-    
   })
   .spiral("archimedean") // rectangular
   .on("end", end)

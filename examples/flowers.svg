@@ -1,1187 +1,771 @@
 <svg width="1000" height="1200" version="1.1" xmlns="http://www.w3.org/2000/svg">
 <g transform="translate(500, 600) scale(1,1)">
 <text text-anchor="middle" 
-        transform="translate(115, 11) 
+        transform="translate(-87, 151) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 99px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        French Marigold
+        style="font-size: 98px; font-family: Spring; weight: regular; fill: rgb(255, 0, 255);">
+        Dandelion
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(48, -323) 
+        transform="translate(-104, -209) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 98px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Chrysanthemum
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(150, 251) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 98px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Pansy
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-82, 221) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 96px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Forget Me Not
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(53, -227) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 94px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Holly
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(238, 382) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 88px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Lantana
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-150, -48) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 85px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Acacia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(154, -69) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 85px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Camellia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-216, 328) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 85px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Sweet Pea
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-270, 99) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 84px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Azalea
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(325, -89) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 83px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Nasturtium
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(327, 402) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 82px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Lotus
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-419, 17) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 79px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        African Daisy
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(88, 79) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 79px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Jasmine
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-162, 367) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 79px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Poppy
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-282, -149) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 78px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Roses
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(392, -1) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 77px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Hyacinth
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-339, -178) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 71px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Fuchsia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-292, -431) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 70px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Bellflower
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(149, 338) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 69px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Sage
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-131, -456) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 66px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Chicory
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(24, 145) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 65px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Lilac
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(22, 311) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 62px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Iris
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(175, -122) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 60px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Elder
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(257, -229) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 57px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Peony
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-149, 87) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 57px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Tulip
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-55, -450) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 55px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Daffodil
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-193, -176) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 54px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Clover
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(180, -461) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 54px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        style="font-size: 97px; font-family: Spring; weight: regular; fill: rgb(0, 255, 0);">
         Lavender
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(87, -430) 
+        transform="translate(-209, 225) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 54px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Quince
+        style="font-size: 97px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Peony
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-172, 449) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 53px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Cyclamen
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(362, -458) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 51px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Petunia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(118, -463) 
+        transform="translate(197, -242) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 50px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Cornflower
+        style="font-size: 93px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Chicory
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(177, 533) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Agapanthus
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(278, -560) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Chionodoxa
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-435, 401) 
+        transform="translate(174, 242) 
         rotate(90)
         scale(1,1)"
-        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Yellow Bell
+        style="font-size: 92px; font-family: Spring; weight: regular; fill: rgb(0, 255, 0);">
+        Hibiscus
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(95, 148) 
+        transform="translate(265, 189) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 92px; font-family: Spring; weight: regular; fill: rgb(255, 0, 255);">
+        Hydrangea
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-386, -58) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 89px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Lilac
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-26, -52) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 89px; font-family: Spring; weight: regular; fill: rgb(255, 255, 0);">
+        Pansy
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(354, 235) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 86px; font-family: Spring; weight: regular; fill: rgb(0, 255, 0);">
+        Bellflower
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(126, -442) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 85px; font-family: Spring; weight: regular; fill: rgb(255, 255, 0);">
+        Camellia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(292, -283) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Disa
+        style="font-size: 83px; font-family: Spring; weight: regular; fill: rgb(0, 255, 0);">
+        Acacia
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(280, -137) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Larkspur
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-259, 189) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Scilla
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(452, -23) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 47px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Diascia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(414, 412) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 47px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Meconopsis
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-344, -463) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 46px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Cotoneaster
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(5, 415) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Dahlia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-189, -474) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Gardenia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(176, -283) 
+        transform="translate(-209, -314) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Ixia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-140, 4) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Parodia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(9, -418) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Phlox
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-359, -506) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Poinsettia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(452, -385) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 44px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Bleeding Heart
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-233, -127) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 44px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Nolana
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(270, -517) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 44px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Sunflower
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-124, 473) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 43px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Allium
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(247, 427) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 43px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Lavatera
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(399, -239) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 42px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Knautia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-287, 478) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 41px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Hebe
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-266, 557) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 40px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Broom
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(394, -426) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 40px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Crocus
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-235, 265) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 39px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Deutzia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-398, -271) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 39px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Dianella
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(451, 440) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 39px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Orchid
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(22, 64) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 37px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Silene
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-401, -515) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 36px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Daisy
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(271, -484) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 36px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Verbena
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(238, -263) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 36px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Zinnia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-416, 61) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 35px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Celosia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(274, 452) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 35px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Clarkia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(379, 484) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 35px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Trollius
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-42, -571) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 34px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Anemone
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(99, 303) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 34px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Dill
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(240, -152) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 34px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Erica
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(285, 567) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 33px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Coral Vine
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(298, 72) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 33px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Lily
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(122, 398) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 32px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Borage
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(455, 240) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 32px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Grape Hyacinth
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-449, -36) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 31px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Olearia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-448, 147) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Calendula
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-467, 371) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Cuckoo Flower
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-218, -274) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Nemesia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-23, -381) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 29px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Ballota
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(138, 568) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 29px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Clematis
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-398, 555) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 29px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Foxglove
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-165, 534) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 29px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Sedum
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-407, -576) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 27px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        style="font-size: 83px; font-family: Spring; weight: regular; fill: rgb(0 , 0, 255);">
         Gladiolas
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-4, 304) 
+        transform="translate(-395, 330) 
         rotate(90)
         scale(1,1)"
-        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Echium
+        style="font-size: 82px; font-family: Spring; weight: regular; fill: rgb(255, 0, 0);">
+        Buttercup
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-450, -165) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Moraea
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-3, 471) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Oxalis
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-388, 345) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Trillium
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(456, -171) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Valerian
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-205, -576) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Kaffir Lily
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-218, -298) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Laelia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(115, -40) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Nerine
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-466, -315) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Bee Balm
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-127, -199) 
+        transform="translate(19, 375) 
         rotate(45)
         scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        style="font-size: 79px; font-family: Spring; weight: regular; fill: rgb(0 , 0, 255);">
+        Sage
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-173, -131) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 72px; font-family: Spring; weight: regular; fill: rgb(255, 0, 0);">
+        Quince
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(84, -529) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 71px; font-family: Spring; weight: regular; fill: rgb(255, 255, 0);">
+        Freesia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(58, -33) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 70px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Roses
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-276, -401) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 66px; font-family: Spring; weight: regular; fill: rgb(255, 0, 255);">
+        Daffodil
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-30, 506) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 66px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Kangaroo Paw
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-228, -496) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 65px; font-family: Spring; weight: regular; fill: rgb(255, 0, 0);">
+        Orchid
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-293, 293) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 61px; font-family: Spring; weight: regular; fill: rgb(255, 0, 255);">
+        Tulip
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-110, 427) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 60px; font-family: Spring; weight: regular; fill: rgb(0, 0, 255);">
+        Dahlia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(213, -58) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 60px; font-family: Spring; weight: regular; fill: rgb(255, 255, 0);">
+        Dill
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(436, 247) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 59px; font-family: Spring; weight: regular; fill: rgb(0 , 0, 255);">
+        African Daisy
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(345, -533) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 55px; font-family: Spring; weight: regular; fill: rgb(0 , 0, 255);">
         Lupin
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-3, 152) 
-        rotate(45)
+        transform="translate(141, -151) 
+        rotate(0)
         scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Pinks
+        style="font-size: 53px; font-family: Spring; weight: regular; fill: rgb(0, 255, 0);">
+        Poppy
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-174, 83) 
+        transform="translate(-435, -153) 
         rotate(90)
         scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Statice
+        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Bluebonnets
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(420, 576) 
+        transform="translate(87, 550) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Xylosma
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(58, 488) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Yarrow
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(20, 545) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Gazania
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-21, 206) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Ixora
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-2, -301) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Matthiola
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(34, -154) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Triteleia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(239, 307) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 21px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Catmint
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-289, 284) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 21px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Wedelia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(26, -500) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Aster
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-241, 579) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Flowering Dogwood
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-424, -535) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Hosta
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-326, 174) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Kalmia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(432, -551) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Soapwort
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(392, 338) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 19px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Erigeron
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-359, -87) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 19px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Viburnum
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-326, 466) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Calceolaria
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-35, -419) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Dietes
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-383, 583) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Eustoma
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(411, -412) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Oleander
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-102, -1) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Viola
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(407, 175) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Feverfew
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(375, -205) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Goldenrod
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-467, 132) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Impatiens
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-359, 520) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Linaria
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-158, -151) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Abutilon
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-67, 398) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Bergenia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(52, -429) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Billbergia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(391, -462) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Alchemilla
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(225, 287) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Amaryllis
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(294, 491) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Hyssop
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-366, -269) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Lunaria
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(242, 586) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Queen’s Cup
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(116, 37) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 14px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Gerbera Flower
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(483, -173) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 14px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Jacob’s Ladder
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-315, 96) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 14px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Periwinkle
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(376, 77) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 14px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Saint John’s Wort
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(164, -239) 
-        rotate(90)
-        scale(1,1)"
-        style="font-size: 13px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Daphne
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(93, -581) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 13px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
-        Fall Crocus
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-74, 574) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 13px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Helenium
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-124, 262) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 13px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Tea Rose
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-157, 484) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 12px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
-        Ageratum
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-201, 188) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 12px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
         Coreopsis
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(-96, 245) 
+        transform="translate(128, 131) 
         rotate(90)
         scale(1,1)"
-        style="font-size: 12px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Heliotrope
+        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Narcissus
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(118, 583) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 12px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Marguerite Daisy
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(104, -302) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 12px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Weigela
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-265, -522) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 11px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Cardinal Flower
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(228, 37) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 11px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Firethorn
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(204, 121) 
-        rotate(45)
-        scale(1,1)"
-        style="font-size: 11px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
-        Trumpet Vine
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-358, -258) 
-        rotate(-45)
-        scale(1,1)"
-        style="font-size: 11px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Watsonia
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(37, 378) 
-        rotate(0)
-        scale(1,1)"
-        style="font-size: 10px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
-        Brassica
-        </text>
-      
-<text text-anchor="middle" 
-        transform="translate(-69, -292) 
+        transform="translate(429, -384) 
         rotate(90)
         scale(1,1)"
-        style="font-size: 10px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
-        Crocosmia
+        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Neoregelia
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(132, 272) 
+        transform="translate(-70, -54) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 49px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Viola
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-451, 255) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Butterfly Bush
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-187, 122) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Chionodoxa
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(59, 132) 
         rotate(0)
         scale(1,1)"
-        style="font-size: 10px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        style="font-size: 48px; font-family: Spring; weight: regular; fill: rgb(255, 0, 0);">
+        Iris
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-124, 362) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 48px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Tithonia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(379, -401) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 47px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Lavatera
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-320, -564) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 46px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Daphne
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-162, 552) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Catmint
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(431, -124) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 45px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Yarrow
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-395, -503) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 43px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Hebe
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-15, -393) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 41px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Bletilla
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-447, 510) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 38px; font-family: Spring; weight: regular; fill: rgb(255, 255, 0);">
+        Daisy
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(313, 557) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 37px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Snowdrop
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(137, 397) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 35px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Pinks
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-59, -7) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 33px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Broom
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-201, 285) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 32px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
         Daylily
         </text>
       
 <text text-anchor="middle" 
-        transform="translate(105, -66) 
+        transform="translate(-464, -171) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 32px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Helichrysum
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-56, 243) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 31px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Hosta
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-310, -463) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Amaranthus
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(322, -378) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Clarkia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-145, -89) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Dianella
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(468, -73) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Moraea
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(77, 177) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Phlox
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(221, -21) 
         rotate(-45)
         scale(1,1)"
-        style="font-size: 10px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
-        Hollyhock
+        style="font-size: 30px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Trollius
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-466, 2) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 29px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Heliotrope
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-151, -576) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 28px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Eremurus
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-285, 413) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 28px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Nolana
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(285, 504) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 28px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Zinnia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-322, 281) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Decumaria
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-7, 570) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 26px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Erigeron
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-296, 14) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Clematis
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(231, 4) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Oxalis
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(461, -400) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 25px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Scaevola
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-87, -7) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 24px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Disa
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(162, -118) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 24px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Silene
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(118, 578) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 23px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Knautia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(288, 527) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Allium
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(62, -321) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 22px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Lunaria
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-103, 162) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 21px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Ixora
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(383, -80) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 21px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Wedelia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-302, 174) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Ballota
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(49, 441) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Bee Balm
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(431, 545) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Begonia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-271, 545) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Celosia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(270, -126) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Crocus
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(288, 581) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Pincushion Flower
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-180, 577) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Speedwell
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-428, -558) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 20px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Ursinia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-272, -94) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 19px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Parodia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(466, 538) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 19px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Verbena
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(465, -248) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 255, 0);">
+        Aconite
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-156, -37) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Anemone
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-298, 540) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Aster
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-415, 36) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Bergenia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(179, -232) 
+        rotate(45)
+        scale(1,1)"
+        style="font-size: 18px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Cosmos
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-175, -294) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 0);">
+        Alyssum
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(95, 195) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(0 , 0, 255);">
+        Erica
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-403, -136) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 17px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Potentilla
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-469, 132) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Anise Hyssop
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-391, -263) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Bouvardia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-210, 310) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Ixia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-322, 583) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Lewesia
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(320, 167) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 0, 255);">
+        Sedum
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-430, -528) 
+        rotate(-45)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Starflower
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-478, -353) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 16px; font-family: Boecklins Universe; weight: regular; fill: rgb(0, 0, 255);">
+        Winter Jasmine
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(408, -134) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 15px; font-family: Boecklins Universe; weight: regular; fill: rgb(255, 255, 0);">
+        Nerine
         </text>
       
 </g>
