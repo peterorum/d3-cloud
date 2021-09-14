@@ -1,0 +1,204 @@
+<svg width="1000" height="1200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(500, 600) scale(1,1)">
+<text text-anchor="middle" 
+  transform="translate(57, 10) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 100px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  git
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-121, 114) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 73px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  checkout
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(18, 210) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 73px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  commit
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(244, -56) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 66px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  diff
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-95, -212) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 66px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  merge
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(170, -256) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 65px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  status
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(118, -80) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 65px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  branch
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(181, 225) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 65px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  fetch
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(214, 77) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 63px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  pull
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-193, -275) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 56px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  log
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(329, 52) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 55px; font-family: Roboto; weight: bold; fill: rgb(128, 0, 0);">
+  push
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-168, -172) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 50px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  add
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(210, -143) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 50px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  rebase
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-44, -126) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 49px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  mv
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-195, 26) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 41px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  bisect
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(136, 164) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 39px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 0);">
+  cherry-pick
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(60, -215) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 36px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  init
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(95, 231) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 36px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  rm
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-182, 253) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 35px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  clone
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(249, -315) 
+  rotate(0)
+  scale(1,1)"
+  style="font-size: 32px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  restore
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-36, -201) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 32px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  tag
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-22, 190) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 31px; font-family: Roboto; weight: bold; fill: rgb(0, 0, 128);">
+  switch
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(21, -180) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 29px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  show
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-20, -277) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 28px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  grep
+  </text>
+
+<text text-anchor="middle" 
+  transform="translate(-239, -282) 
+  rotate(90)
+  scale(1,1)"
+  style="font-size: 27px; font-family: Roboto; weight: bold; fill: rgb(0, 128, 128);">
+  reset
+  </text>
+
+</g>
+</svg>
