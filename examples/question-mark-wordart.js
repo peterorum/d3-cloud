@@ -78,8 +78,8 @@ cloud()
   .fontSize(function (d) {
     return d.size;
   })
-  // .spiral("archimedean") 
-  .spiral("rectangular") 
+  .spiral("archimedean") 
+  // .spiral("rectangular") 
   .on("end", end)
   .start();
 
