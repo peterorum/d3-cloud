@@ -63,7 +63,6 @@ const popularFlowers = [
   "Lotus",
   "Lupin",
   "Magnolia",
-  "Marigold",
   "Mayflower",
   "Nasturtium",
   "Orchid",
