@@ -1,0 +1,260 @@
+<svg width="1000" height="1200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(500, 600) scale(1,1)">
+<text text-anchor="middle" 
+        transform="translate(39, -115) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 150px; font-family: TitilliumWeb-Bold; weight: normal; fill: rgb(0, 128, 0);">
+        Crypto
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-228, 72) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 96px; font-family: Roboto-Medium; weight: normal; fill: rgb(128, 0, 0);">
+        Hot Wallet
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(90, 198) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 94px; font-family: AktivGrotesk-Bold; weight: normal; fill: rgb(0, 128, 128);">
+        Seed Phrase
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(204, -236) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 93px; font-family: AinslieSans-NorDem; weight: normal; fill: rgb(128, 0, 0);">
+        Fork
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-63, -307) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 92px; font-family: Roboto-Medium; weight: normal; fill: rgb(128, 128, 0);">
+        PoA
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(208, 289) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 87px; font-family: AcuminProWide-Medium; weight: normal; fill: rgb(0, 128, 128);">
+        Mooning
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-243, -408) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 85px; font-family: GaramondATFText-Bold; weight: normal; fill: rgb(0, 0, 128);">
+        Encryption
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-267, 184) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 83px; font-family: HelveticaNeue-Bold; weight: normal; fill: rgb(0, 0, 128);">
+        PoS
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(296, -11) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 75px; font-family: GaramondATFText-Bold; weight: normal; fill: rgb(128, 0, 128);">
+        Altcoins
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-199, -35) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 75px; font-family: Montserrat-Medium; weight: normal; fill: rgb(128, 0, 128);">
+        HODL
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(159, 96) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 69px; font-family: Neuzon-Regular; weight: normal; fill: rgb(128, 0, 128);">
+        Escrow
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-105, 279) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 65px; font-family: Montserrat-Medium; weight: normal; fill: rgb(128, 128, 0);">
+        PoB
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-155, -249) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 64px; font-family: AinslieSans-NorDem; weight: normal; fill: rgb(0, 0, 128);">
+        DeFi
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(383, -48) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 62px; font-family: PMNCaeciliaSansHead-Bd; weight: normal; fill: rgb(0, 128, 128);">
+        Chain Linking
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(55, -284) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 59px; font-family: PMNCaeciliaSansHead-Bd; weight: normal; fill: rgb(0, 128, 128);">
+        Node
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(149, -388) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 53px; font-family: HelveticaNeue-Bold; weight: normal; fill: rgb(128, 0, 0);">
+        Mining
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-271, 329) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 50px; font-family: Roboto-Medium; weight: normal; fill: rgb(128, 128, 0);">
+        Peer-to-Peer
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-244, -317) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 50px; font-family: Montserrat-Medium; weight: normal; fill: rgb(0, 0, 128);">
+        Hash Rate
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-26, -22) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 48px; font-family: Neuzon-Regular; weight: normal; fill: rgb(128, 128, 0);">
+        PoA
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-175, 395) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 45px; font-family: Tenon-Bold; weight: normal; fill: rgb(128, 0, 128);">
+        Mempool
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-354, -192) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 43px; font-family: TitilliumWeb-Bold; weight: normal; fill: rgb(128, 0, 128);">
+        Blockchain
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(82, -28) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 43px; font-family: Tenon-Bold; weight: normal; fill: rgb(0, 0, 128);">
+        ICO
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(320, -336) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 42px; font-family: Montserrat-Medium; weight: normal; fill: rgb(0, 128, 0);">
+        Algorithm
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-410, -183) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 38px; font-family: Tenon-Bold; weight: normal; fill: rgb(128, 0, 0);">
+        Genesis Block
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-275, -204) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 37px; font-family: HelveticaNeue-Bold; weight: normal; fill: rgb(128, 0, 0);">
+        Public Key
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(255, -478) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 34px; font-family: AcuminProWide-Medium; weight: normal; fill: rgb(128, 0, 128);">
+        Cold Wallet
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-166, -498) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 34px; font-family: AinslieSans-NorDem; weight: normal; fill: rgb(0, 128, 128);">
+        Non-Fungible Token
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(172, -65) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 33px; font-family: HelveticaNeue-Bold; weight: normal; fill: rgb(0, 128, 0);">
+        PoW
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-312, 169) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 29px; font-family: AcuminProWide-Medium; weight: normal; fill: rgb(128, 128, 0);">
+        Private Key
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-23, 266) 
+        rotate(90)
+        scale(1,1)"
+        style="font-size: 28px; font-family: Montserrat-Medium; weight: normal; fill: rgb(0, 128, 128);">
+        Bitcoin
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(135, -468) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 27px; font-family: GaramondATFText-Bold; weight: normal; fill: rgb(128, 128, 0);">
+        Memecoin
+        </text>
+      
+<text text-anchor="middle" 
+        transform="translate(-402, -359) 
+        rotate(0)
+        scale(1,1)"
+        style="font-size: 26px; font-family: GaramondATFText-Bold; weight: normal; fill: rgb(128, 0, 128);">
+        NFT
+        </text>
+      
+</g>
+</svg>
