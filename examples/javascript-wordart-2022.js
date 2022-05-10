@@ -14,33 +14,33 @@ const colors = [
   "rgb(128, 128, 0)",
 ];
 
-const size = () => Math.floor(25 + Math.random() * 80);
+const size = () => Math.floor(25 + Math.random() * 60);
 const color = () => Math.floor(Math.random() * 6);
 
 var wordList = [
   { text: "javascript", size: 100, color: 0 },
-  { text: "svelte", size: size(), color: color() },
-  { text: "react", size: size(), color: color() },
-  { text: "vue", size: size(), color: color() },
-  { text: "preact", size: size(), color: color() },
-  { text: "angular", size: size(), color: color() },
-  { text: "vite", size: size(), color: color() },
+  { text: "svelte", size: 70, color: color() },
+  { text: "react", size: 70, color: color() },
+  { text: "vue", size: 50, color: color() },
+  { text: "preact", size: 40, color: color() },
+  { text: "angular", size: 40, color: color() },
+  { text: "vite", size: 40, color: color() },
   { text: "esbuild", size: size(), color: color() },
   { text: "rollup", size: size(), color: color() },
   { text: "parcel", size: size(), color: color() },
   { text: "webpack", size: size(), color: color() },
-  { text: "gulp", size: size(), color: color() },
-  { text: "browserify", size: size(), color: color() },
+  { text: "gulp", size: 40, color: color() },
+  { text: "browserify", size: 30, color: color() },
   { text: "tsc cli", size: size(), color: color() },
   { text: "npm", size: size(), color: color() },
   { text: "yarn", size: size(), color: color() },
   { text: "nextjs", size: size(), color: color() },
   { text: "express", size: size(), color: color() },
-  { text: "gatsby", size: size(), color: color() },
-  { text: "strapi", size: size(), color: color() },
+  { text: "gatsby", size: 40, color: color() },
+  { text: "strapi", size: 30, color: color() },
   { text: "jest", size: size(), color: color() },
-  { text: "cypress", size: size(), color: color() },
-  { text: "storybook", size: size(), color: color() },
+  { text: "cypress", size: 20, color: color() },
+  { text: "storybook", size: 30, color: color() },
   { text: "mocha", size: size(), color: color() },
   { text: "jasmine", size: size(), color: color() },
   { text: "html", size: size(), color: color() },
@@ -48,13 +48,13 @@ var wordList = [
   { text: "json", size: size(), color: color() },
   { text: "node", size: size(), color: color() },
   { text: "nosql", size: size(), color: color() },
-  { text: "jquery", size: size(), color: color() },
+  { text: "jquery", size: 40, color: color() },
   { text: "git", size: size(), color: color() },
   { text: "regex", size: size(), color: color() },
   { text: "graphql", size: size(), color: color() },
   { text: "typescript", size: size(), color: color() },
   { text: "d3", size: size(), color: color() },
-  { text: "prettier", size: size(), color: color() },
+  { text: "prettier", size: 40, color: color() },
 ].map(function (d) {
   return { text: d.text, size: d.size, color: d.color };
 });
