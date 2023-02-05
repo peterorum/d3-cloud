@@ -10,7 +10,6 @@ const fonts = [
   "Monaco",
   "Barrio",
   "Big Shoulders Stencil Text",
-  "Road Rage",
   "Slackey",
   "Kirang Haerang",
   "Rammetto One",
@@ -63,7 +62,7 @@ let wordList = null;
 
 function end(words) {
 
-  const tmpSvg = `/tmp/js-${new Date().getTime()}.svg`
+  const tmpSvg = `/tmp/js-${words[0].font}-${new Date().getTime()}.svg`
 
   fs.writeFileSync(tmpSvg,
     `<svg width="${canvasWidth}" height="${canvasHeight}" version="1.1" xmlns="http://www.w3.org/2000/svg">`
